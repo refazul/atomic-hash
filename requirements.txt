@@ -1,0 +1,10 @@
+django
+mysqlclient
+pillow
+pandas
+openpyxl
+django-object-actions
+django-wkhtmltopdf
+django-storages
+python-dotenv
+boto3
